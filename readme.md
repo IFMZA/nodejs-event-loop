@@ -40,4 +40,4 @@ $ node index.js
 
 ## 📝 License
 
-This project is licensed under the ISC License - see the [LICENSE.md](LICENSE.md) file for more information.
+This project is licensed under the ISC License - see the [License.md](License.md) file for more information.
