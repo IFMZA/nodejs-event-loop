@@ -1,0 +1,18 @@
+{
+  "name": "event-loop",
+  "version": "1.0.0",
+  "description": "What happens internally in Node. Multithreading and Single Threaded event loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Event Loop",
+    "Single Threaded",
+    "NodeJs",
+    "Multithreading",
+    "Breaking Event Loop"
+  ],
+  "author": "islam farid",
+  "license": "ISC"
+}
